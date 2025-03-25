@@ -39,7 +39,7 @@ Findtrend is a web application designed to help you gather all your favorite web
 
 4. Start the server:
    ```bash
-   npm start
+   npm run start
 
 5. The application will be running on http://localhost:3000.
 
