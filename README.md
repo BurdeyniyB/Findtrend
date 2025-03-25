@@ -44,12 +44,13 @@ Findtrend is a web application designed to help you gather all your favorite web
 5. The application will be running on http://localhost:3000.
 
 ## Demo of site
-![img1](public/findtrend/img1.png)
-![img2](public/findtrend/img2.png)
-![img3](public/findtrend/img3.png)
-![img4](public/findtrend/img4.png)
-![img5](public/findtrend/img5.png)
-
+<p align="center">
+  <img src="public/findtrend/img1.png" width="600" />
+  <img src="public/findtrend/img2.png" width="600" />
+  <img src="public/findtrend/img3.png" width="600" />
+  <img src="public/findtrend/img4.png" width="600" />
+  <img src="public/findtrend/img5.png" width="600" />
+</p>
 
 ## Usage
 
