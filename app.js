@@ -1,7 +1,7 @@
 // server.js
 const express = require('express');
 const app = express();
-const PORT = 3000;
+const PORT = 4000;
 
 // Статичні файли (HTML, CSS, JS) в папці "public"
 app.use(express.static('public'));
