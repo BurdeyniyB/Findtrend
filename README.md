@@ -16,7 +16,7 @@ Findtrend is a web application designed to help you gather all your favorite web
 ## Table of Contents
 
 - [Installation](#installation)
-- [Installation](#demoofsite)
+- [Demo of site](#demo-of-site)
 - [Usage](#usage)
 - [Technologies](#technologies)
 
